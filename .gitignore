@@ -1,0 +1,6 @@
+bin/
+*.os
+*.o
+.sconsign.dblite
+.claude/
+*.uid
